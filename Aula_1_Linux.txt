@@ -1,0 +1,2 @@
+Linux é um kernel, tudo que é desenvolvido para esse kernel é open source.
+Temos as distros, sendo a Ubuntu a mais famosa e com a maior comunidade.

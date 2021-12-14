@@ -1,0 +1,23 @@
+git init : criar novo repositório
+git status: verificar estados dos arquivos/diretórios
+git add (arquivo): Adicionar arquivo no diretório
+git add . : Adicionar todos os arquivos no diretório
+git commit (arquivo): Comitar um arquivo
+git commit meuarquivo.txt - m "indico o que eu vou fazer" 
+git rm meuarquivo.txt : Remover arquivo 
+git rm -r diretorio : remover diretorio
+git log : Exibir histórico
+git checkout -- meu_arquivo.txt : desfazendo alteração do local
+git reset HEAD meu_arquivo.txt : desfazer da staged area
+git remote - v : Exibir os repositóriops remotos
+git remote add origin git@github.com:leocomelli/curso-git.git: Vincular repositório local com um repositório remoto
+git remote show origin : Exibir informações dos repositórios remotos
+git remote rm curso-git: Desvincular um repositório remoto
+git push -u origin main: Enviar arquivos/diretórios para o repositório remoto
+git pull : Atualizar os arquivos no branch atual
+git fetch: Buscar as alterações
+git clone git@github.com:leocomelli/curso-git.git: Clonar repositório
+git branch bug-123: Criar novo branch
+git checkout bug-123 : trocando para um branch existente
+git merge bug-123: fazer o merge
+git commit -- amend -m

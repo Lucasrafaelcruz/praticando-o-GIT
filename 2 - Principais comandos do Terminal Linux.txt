@@ -1,0 +1,15 @@
+Principais comandos do Linux
+ls: lista o que tem no diretório
+ls -l: lista com mais informações
+cd: change directory. Troca o diretório indo pra um indicado.
+mkdir: cria uma pasta
+rmdir romve uma pasta, mas a pasta tem que estar vazia
+rm remove pastas ou arquivos
+pwd: exibe o diretório
+
+sudo apt uptade: primeiro te dar acesso como administrador e fazer atualizações
+apt list -- upgradable: lista os pacotes que podem ser atualizados
+man apt: mostra um manual detalhado do gerenciador de pacote apt 
+apt -- help: ajuda para tudo que podemos fazer com os comandos do apt
+sudo apt upgrade: atualiza os sistemas e também os pacotes
+sudo apt install [pacote] : instala o pacote desejado
